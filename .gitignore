@@ -1,0 +1,37 @@
+# IntelliJ IDEA IDE 설정 파일
+.idea/
+
+# Eclipse IDE 설정 파일
+.classpath
+.project
+.settings/
+
+# Maven 빌드 디렉토리
+target/
+
+# Gradle 빌드 디렉토리
+build/
+
+# 로깅 파일
+*.log
+
+# IDE 및 편집기 임시 파일
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# 환경 설정 파일
+*.properties
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# 빌드 및 의존성 관련 파일
+build.gradle
+.gradle/
+*.jar
+*.war
+*.ear
+lib/
